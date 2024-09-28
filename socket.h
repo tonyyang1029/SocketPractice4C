@@ -5,7 +5,8 @@
 #ifndef SOCKETPRACTICE_SOCKET_H
 #define SOCKETPRACTICE_SOCKET_H
 
-#define SOCKET_ADDR     "127.0.0.1"
+//#define SOCKET_ADDR     "127.0.0.1"
+#define SOCKET_ADDR     "192.168.1.45" // VPN
 #define SOCKET_PORT     1234
 
 int server_create(void);

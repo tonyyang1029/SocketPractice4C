@@ -1,5 +1,0 @@
-/Users/tonyyang/Workspace/CLionProjects/SocketPractice4C/cmake-build-debug/CMakeFiles/socketserver.dir
-/Users/tonyyang/Workspace/CLionProjects/SocketPractice4C/cmake-build-debug/CMakeFiles/socketclient.dir
-/Users/tonyyang/Workspace/CLionProjects/SocketPractice4C/cmake-build-debug/CMakeFiles/socket.dir
-/Users/tonyyang/Workspace/CLionProjects/SocketPractice4C/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/tonyyang/Workspace/CLionProjects/SocketPractice4C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

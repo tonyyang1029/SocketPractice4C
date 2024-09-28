@@ -18,7 +18,7 @@ int main(void)
     socket_read(client_socket, data, sizeof(data) - 1);
     printf("Client received message from server: %s \n", data);
 
-    const char *str = "Greeting from client!";
+    const char *str = "Greeting from client!\n";
     socket_write(client_socket, str, strlen(str));
 
     socket_destroy(client_socket);

@@ -14,7 +14,7 @@
 #define LOG_LEVEL_WARN      2
 #define LOG_LEVEL_INFO      3
 #define LOG_LEVEL_DBG       4
-#define LOG_LEVEL           LOG_LEVEL_DBG
+#define LOG_LEVEL           LOG_LEVEL_INFO
 
 #if (LOG_LEVEL >= LOG_LEVEL_ERROR)
 #define SOCKET_LOGE(...)    printf(__VA_ARGS__)
